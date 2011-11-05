@@ -1,0 +1,13 @@
+Esse programa é a resolução do problema da silhueta dos prédios, descrito em
+http://www.ime.usp.br/~reverbel/PFC-11/trabalhos/ep1/
+
+Para executar o programa com uma entrada padrao rode:
+  $ make run
+Esse comando compilará o programa e executará, gerando como saida o arquivo "saida.txt" e "imagem.pgm"
+
+Para limpar, execute
+  $ make clean
+
+Para executar os testes rode:
+  $ make test
+
